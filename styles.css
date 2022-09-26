@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+}
+h1 {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+.liste {
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-evenly;
+    
+    
+}
+p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yemek-tarifi {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+}
+.foto {
+    height: 280px;
+    width: 300px;
+    position: absolute;
+    left: 500px;
+    bottom: 380px;
+    
+}
+.yapilisi{
+    font-size: 20px;
+    
+}
